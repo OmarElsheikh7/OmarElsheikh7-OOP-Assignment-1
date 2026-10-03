@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17521D82-7236-4FA7-AD76-13D8D277CBCF}|HotelReservationSystem.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\hotelreservationsystem\\src\\hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17521D82-7236-4FA7-AD76-13D8D277CBCF}|HotelReservationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{271C4CD3-45AF-44C0-8722-8360F5C28AA9}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271C4CD3-45AF-44C0-8722-8360F5C28AA9}|ProceduralToOOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:56:46.854Z",
+              "WhenOpened": "2026-10-01T14:04:24.206Z",
               "EditorCaption": ""
             }
           ]
