@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17521D82-7236-4FA7-AD76-13D8D277CBCF}|HotelReservationSystem.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\hotelreservationsystem\\src\\hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17521D82-7236-4FA7-AD76-13D8D277CBCF}|HotelReservationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1744A10-8E36-9A88-79AF-8A86AF453CB3}|HotelReservationSystem.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\hotelreservationsystem\\src\\hotelreservationsystem\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1744A10-8E36-9A88-79AF-8A86AF453CB3}|HotelReservationSystem.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1744A10-8E36-9A88-79AF-8A86AF453CB3}|HotelReservationSystem.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\hotelreservationsystem\\src\\hotelreservationsystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1744A10-8E36-9A88-79AF-8A86AF453CB3}|HotelReservationSystem.csproj|solutionrelative:reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1744A10-8E36-9A88-79AF-8A86AF453CB3}|HotelReservationSystem.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\hotelreservationsystem\\src\\hotelreservationsystem\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1744A10-8E36-9A88-79AF-8A86AF453CB3}|HotelReservationSystem.csproj|solutionrelative:guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1744A10-8E36-9A88-79AF-8A86AF453CB3}|HotelReservationSystem.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\hotelreservationsystem\\src\\hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1744A10-8E36-9A88-79AF-8A86AF453CB3}|HotelReservationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:43:27.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reservation.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\Reservation.cs",
+              "RelativeToolTip": "Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:28:15.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\Guest.cs",
+              "RelativeDocumentMoniker": "Guest.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\Guest.cs",
+              "RelativeToolTip": "Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:13:20.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\HotelReservationSystem\\src\\HotelReservationSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -38,8 +89,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T13:56:46.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T13:56:46.854Z"
             }
           ]
         }

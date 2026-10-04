@@ -4,24 +4,27 @@ using System.Text;
 
 namespace HotelReservationSystem
 {
-    public class guest
+    public class Guest
     {
         public Guid guestId { get;}
         public string fullName { get;}
         public string phoneNumber { get;}
 
-        public guest(string fullname,string phonenumber)
+        public IReadOnlyList<Reservation> Reservations { get;}
+
+        public Guest(string fullname,string phonenumber)
         {
 
-            if (String.IsNullOrEmpty(fullname))
+            if (String.IsNullOrWhiteSpace(fullname))
                 throw new ArgumentException("Fullname can not be null or empty");   
 
-            if(String.IsNullOrEmpty(phonenumber))
+            if(String.IsNullOrWhiteSpace(phonenumber))
                 throw new ArgumentException("Phone number can not be null or empty");
 
             guestId = Guid.NewGuid();
             fullName = fullname;
             phoneNumber = phonenumber;
+            Reservations = new List<Reservation>();
         }
     }
 }
