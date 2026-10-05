@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProceduralToOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cafba1c992332068df2384ef07a0e1734eb773ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18199fc0b57225f3e6f185164df2297aae572a22")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProceduralToOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProceduralToOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{271C4CD3-45AF-44C0-8722-8360F5C28AA9}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{271C4CD3-45AF-44C0-8722-8360F5C28AA9}|ProceduralToOOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|solutionrelative:consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|solutionrelative:domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|solutionrelative:orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|solutionrelative:ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|c:\\users\\omare\\source\\repos\\omarelsheikh7-oop-assignment-1\\proceduraltooop\\src\\proceduraltooop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89BC1CF-BA7E-FC9A-0064-8808592E0718}|ProceduralToOOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderSystem.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\OrderSystem.cs",
+              "RelativeDocumentMoniker": "OrderSystem.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\OrderSystem.cs",
+              "RelativeToolTip": "OrderSystem.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwFUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T19:52:33.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\DomainException.cs",
+              "RelativeDocumentMoniker": "DomainException.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\DomainException.cs",
+              "RelativeToolTip": "DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T19:52:19.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\ConsoleMenu.cs",
+              "RelativeToolTip": "ConsoleMenu.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwHAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T19:51:53.204Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -30,13 +97,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T19:27:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\OrderLine.cs",
+              "RelativeDocumentMoniker": "OrderLine.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\OrderLine.cs",
+              "RelativeToolTip": "OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T19:27:02.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T19:27:00.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:58:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\omare\\source\\repos\\OmarElsheikh7-OOP-Assignment-1\\ProceduralToOOP\\src\\ProceduralToOOP\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T14:04:24.206Z",
               "EditorCaption": ""
